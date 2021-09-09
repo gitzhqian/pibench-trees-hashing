@@ -196,3 +196,4 @@ $ ./PiBench fptree.so -n 1000 -p 1000 -r 1 --skip_load=true --pool_path=/mnt/pme
 rm /mnt/pmem1/tmp_pool
 ```
 # pibench-trees-hashing
+# pibench-trees-hashtables
