@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpibench.a CMakeFiles/pibench.dir/key_generator.cpp.o CMakeFiles/pibench.dir/library_loader.cpp.o CMakeFiles/pibench.dir/benchmark.cpp.o CMakeFiles/pibench.dir/operation_generator.cpp.o CMakeFiles/pibench.dir/value_generator.cpp.o
+/usr/bin/ranlib libpibench.a

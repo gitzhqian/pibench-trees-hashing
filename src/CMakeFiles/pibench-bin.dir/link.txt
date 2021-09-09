@@ -1,0 +1,1 @@
+/usr/bin/g++-8  -ltbb -latomic  -g   -Wno-invalid-offsetof -mcx16 -DNDEBUG -march=native -O3 -DNDEBUG CMakeFiles/pibench-bin.dir/main.cpp.o -o PiBench  libpibench.a -fopenmp ../pcm/libPCM.a -ldl 
